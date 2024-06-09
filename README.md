@@ -18,4 +18,4 @@
 
 # <p align="center"> - #begin - </p>
 
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/5bd477d3-812b-4162-bfeb-23ff3c561782) </p>
+# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/1aead833-b573-4170-b751-c0f1279f7cf9) </p>
