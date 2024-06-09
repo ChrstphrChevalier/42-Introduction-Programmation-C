@@ -1,4 +1,4 @@
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/55cab384-60bf-4ca3-99f9-e5bc583b7cc0) </p>
+# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/e71faec6-2bc9-4c84-9ad5-73763f262538) </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Lausanne/assets/146819291/0c37f116-6829-4b34-8f98-42f265bf61aa) </p>
 
