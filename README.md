@@ -1,6 +1,6 @@
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/05c9f86d-06a7-4f90-9d44-7ac68827babd) </p>
-
 ##### <p align="center"> *During the 42 school swimming pool test, I encountered several difficulties and gained valuable experiences.* </p>
+
+# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/05c9f86d-06a7-4f90-9d44-7ac68827babd) </p>
 
 ## <p align="center"> ### Encountered difficulties </p>
 
@@ -23,6 +23,8 @@
 ### <p align="center"> 5. **Adaptation and resilience**: </p>
 ##### <p align="center"> - I had to quickly adapt to a new working environment, often far from the one I was used to. </p>
 ##### <p align="center"> - My resilience in the face of frequent failures and my ability to persevere despite difficulties were tested. </p>
+
+# <p align="center">   </p>
 
 ## <p align="center"> ### Experiences acquired </p>
 
