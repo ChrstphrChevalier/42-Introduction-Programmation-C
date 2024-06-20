@@ -50,6 +50,8 @@
 
 ##### <p align="center"> *In short, the pool at School 42 was a real challenge that tested not only my technical skills, but also my resilience, my ability to learn independently, and my ability to work in a team. I came away greatly transformed and better prepared for future challenges in the field of programming and software engineering.* </p>
 
+# <p align="center">   </p>
+
 # <p align="center"> - Exam 00 - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/a2bdf4fe-5a0e-4b5b-b2b0-a269b414afb4) </p>
