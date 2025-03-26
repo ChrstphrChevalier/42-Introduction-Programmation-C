@@ -1,70 +1,70 @@
-##### <p align="center"> *During the 42 school swimming pool test, I encountered several difficulties and gained valuable experiences.* </p>
+##### <p align="center"> *Au cours du test de la piscine de 42 écoles, j'ai rencontré plusieurs difficultés et j'ai acquis des expériences précieuses.* </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/05c9f86d-06a7-4f90-9d44-7ac68827babd) </p>
 
-## <p align="center"> ### Encountered difficulties </p>
+## <p align="center"> ### Difficultés rencontrées </p>
 
-### <p align="center"> 1. **Intensity and workload**: </p>
-##### <p align="center"> - I often had to work long hours, sometimes until late at night, with typical days of 12 to 16 hours of intensive work. </p>
-##### <p align="center"> - The quantity of projects and exercises to complete was very high, requiring rigorous management of my time. </p>
+### <p align="center"> 1. **Intensité et charge de travail**: </p>
+##### <p align="center"> - J'ai souvent dû travailler de longues heures, parfois jusqu'à tard dans la nuit, avec des journées typiques de 12 à 16 heures de travail intensif. </p>
+##### <p align="center"> - La quantité de projets et d'exercices à réaliser était très élevée, nécessitant une gestion rigoureuse de mon temps. </p>
 
-### <p align="center"> 2. **Stress and pressure**: </p>
-##### <p align="center"> - Competing with other candidates was stressful, especially in an environment where everyone was aiming to outdo each other. </p>
-##### <p align="center"> - The pressure of having to complete exercises and projects under tight deadlines increased my stress level. </p>
+### <p align="center"> 2. **Stress et pression** : </p>
+##### <p align="center"> - La compétition avec d'autres candidats était stressante, surtout dans un environnement où chacun cherchait à se surpasser. </p>
+##### <p align="center"> - La pression de devoir terminer des exercices et des projets dans des délais serrés augmentait mon niveau de stress. </p>
 
-### <p align="center"> 3. **Complexity of subjects**: </p>
-##### <p align="center"> - The exercises covered a wide range of topics, from programming basics to more advanced concepts in algorithms and data structure. </p>
-##### <p align="center"> - I often had to learn new languages ​​or programming paradigms quickly. </p>
+### <p align="center"> 3. **Complexité des sujets** : </p>
+##### <p align="center"> - Les exercices couvraient un large éventail de sujets, des bases de la programmation aux concepts plus avancés en algorithmes et en structure de données. </p>
+##### <p align="center"> - J'ai souvent dû apprendre rapidement de nouveaux langages ou paradigmes de programmation. </p>
 
-### <p align="center"> 4. **Lack of resources**: </p>
-##### <p align="center"> - I did not receive formal lectures or tutorials, often having to learn on my own or collaborate with my peers. </p>
-##### <p align="center"> - Online resources and mutual assistance between candidates became crucial. </p>
+### <p align="center"> 4. **Manque de ressources** : </p>
+##### <p align="center"> - Je n'ai pas bénéficié de cours magistraux ni de travaux dirigés, j'ai souvent dû apprendre seul ou collaborer avec mes pairs. </p>
+##### <p align="center"> - Les ressources en ligne et l'entraide entre candidats sont devenues cruciales. </p>
 
-### <p align="center"> 5. **Adaptation and resilience**: </p>
-##### <p align="center"> - I had to quickly adapt to a new working environment, often far from the one I was used to. </p>
-##### <p align="center"> - My resilience in the face of frequent failures and my ability to persevere despite difficulties were tested. </p>
-
-# <p align="center">   </p>
-
-## <p align="center"> ### Experiences acquired </p>
-
-### <p align="center"> 1. **Independent learning**: </p>
-##### <p align="center"> - I developed self-study skills, learning to seek out and assimilate new information on my own. </p>
-##### <p align="center"> - My ability to understand and solve complex problems without direct assistance has greatly improved. </p>
-
-### <p align="center"> 2. **Collaboration and mutual assistance**: </p>
-##### <p align="center"> - The spirit of camaraderie and collaboration was strengthened, learning to work as a team and help each other. </p>
-##### <p align="center"> - Knowledge exchanges and pair programming sessions were common. </p>
-
-### <p align="center"> 3. **Time management**: </p>
-##### <p align="center"> - I acquired time management skills, learning to prioritize tasks and manage multiple projects simultaneously. </p>
-##### <p align="center"> - My discipline and personal organization were tested and improved. </p>
-
-### <p align="center"> 4. **Resilience and perseverance**: </p>
-##### <p align="center"> - My ability to overcome failures and persevere in difficult conditions has developed significantly. </p>
-##### <p align="center"> - I learned to accept and learn from my mistakes, thus improving my approach to future problems. </p>
-
-### <p align="center"> 5. **Technical skills**: </p>
-##### <p align="center"> - I have significantly improved my programming skills, especially in C, which is often the language of choice for exercises. </p>
-##### <p align="center"> - I gained a better understanding of algorithms, data structures, and fundamental computer science concepts. </p>
-
-##### <p align="center"> *In short, the pool at School 42 was a real challenge that tested not only my technical skills, but also my resilience, my ability to learn independently, and my ability to work in a team. I came away greatly transformed and better prepared for future challenges in the field of programming and software engineering.* </p>
+#### <p align="center"> 5. **Adaptation et résilience** : </p>
+##### <p align="center"> - J'ai dû m'adapter rapidement à un nouvel environnement de travail, souvent éloigné de celui auquel j'étais habitué. </p>
+##### <p align="center"> - Ma résilience face aux échecs fréquents et ma capacité à persévérer malgré les difficultés ont été mises à l'épreuve. </p>
 
 # <p align="center">   </p>
 
-# <p align="center"> - Exam 00 - </p>
+## <p align="center"> ### Expériences acquises </p>
+
+### <p align="center"> 1. **Apprentissage autonome** : </p>
+##### <p align="center"> - J'ai développé des compétences d'auto-apprentissage, apprenant à rechercher et à assimiler de nouvelles informations par moi-même. </p>
+##### <p align="center"> - Ma capacité à comprendre et à résoudre des problèmes complexes sans aide directe s'est grandement améliorée. </p>
+
+### <p align="center"> 2. **Collaboration et entraide** : </p>
+##### <p align="center"> - L'esprit de camaraderie et de collaboration s'est renforcé, permettant d'apprendre à travailler en équipe et à s'entraider. </p>
+##### <p align="center"> - Les échanges de connaissances et les séances de programmation en binôme étaient fréquents. </p>
+
+### <p align="center"> 3. **Gestion du temps** : </p>
+##### <p align="center"> - J'ai acquis des compétences en gestion du temps, en apprenant à prioriser les tâches et à gérer plusieurs projets simultanément. </p>
+##### <p align="center"> - Ma discipline et mon organisation personnelle ont été testées et améliorées. </p>
+
+### <p align="center"> 4. **Résilience et persévérance** : </p>
+##### <p align="center"> - Ma capacité à surmonter les échecs et à persévérer dans des conditions difficiles s'est considérablement développée. </p>
+##### <p align="center"> - J'ai appris à accepter mes erreurs et à en tirer des leçons, améliorant ainsi mon approche des problèmes futurs. </p>
+
+### <p align="center"> 5. **Compétences techniques** : </p>
+##### <p align="center"> - J'ai considérablement amélioré mes compétences en programmation, notamment en C, qui est souvent le langage de prédilection pour les exercices. </p>
+##### <p align="center"> - J'ai acquis une meilleure compréhension des algorithmes, des structures de données et des concepts fondamentaux de l'informatique. </p>
+
+##### <p align="center"> *En bref, la piscine de l'École 42 a été un véritable défi qui a mis à l'épreuve non seulement mes compétences techniques, mais aussi ma résilience, ma capacité d'apprentissage autonome et mon aptitude à travailler en équipe. J'en suis ressorti profondément transformé et mieux préparé aux défis futurs dans le domaine de la programmation et du génie logiciel.* </p>
+
+# <p align="center">   </p>
+
+# <p align="center"> - Examen 00 - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/a2bdf4fe-5a0e-4b5b-b2b0-a269b414afb4) </p>
 
-# <p align="center"> - Exam 01 - </p>
+# <p align="center"> - Examen 01 - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/66b1c4e9-2175-41c0-a632-6fe3e974d1ac) </p>
 
-# <p align="center"> - Exam 02 - </p>
+# <p align="center"> - Examen 02 - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/ce0f41bf-8bfd-467c-8d17-b22eb27d9b1c) </p>
 
-# <p align="center"> - Final Exam - </p>
+# <p align="center"> - Examen Final - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/5d7482e7-8d07-49d5-991f-e8a327dc51b9) </p>
 
