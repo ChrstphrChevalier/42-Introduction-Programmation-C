@@ -20,7 +20,7 @@
 ##### <p align="center"> - Je n'ai pas bénéficié de cours magistraux ni de travaux dirigés, j'ai souvent dû apprendre seul ou collaborer avec mes pairs. </p>
 ##### <p align="center"> - Les ressources en ligne et l'entraide entre candidats sont devenues cruciales. </p>
 
-#### <p align="center"> 5. **Adaptation et résilience** : </p>
+### <p align="center"> 5. **Adaptation et résilience** : </p>
 ##### <p align="center"> - J'ai dû m'adapter rapidement à un nouvel environnement de travail, souvent éloigné de celui auquel j'étais habitué. </p>
 ##### <p align="center"> - Ma résilience face aux échecs fréquents et ma capacité à persévérer malgré les difficultés ont été mises à l'épreuve. </p>
 
