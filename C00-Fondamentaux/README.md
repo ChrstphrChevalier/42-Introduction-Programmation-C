@@ -3,7 +3,7 @@
 ## <p align="center"> C00 - Fondamentaux - Premiers Pas en Programmation C </p>
 
 ### Aperçu
-Le projet **C00 - Fondamentaux** est un projet clé de l'école 42 permettant d’acquérir les bases essentielles du langage **C** et de la **programmation système**. À travers une série de fonctions simples mais fondamentales, ce projet introduit les concepts de **contrôle de flux**, de **manipulation de données simples**, de **gestion de mémoire**, et de **résolution de problèmes**. Il m’a permis de renforcer ma compréhension des **fonctions C**, des **boucles**, des **conditions**, et des **structures de contrôle** tout en suivant les strictes règles de la **Norme 42**.
+Le projet **C00 - Fondamentaux** est un projet clé de l'école 42 permettant d’acquérir les bases essentielles du langage **C** et de la **programmation système**. À travers une série de fonctions simples mais fondamentales, ce projet introduit les concepts de **contrôle de flux**, de **manipulation de données simples** et de **résolution de problèmes**. Il m’a permis de renforcer ma compréhension des **fonctions C**, des **boucles**, des **conditions**, et des **structures de contrôle** tout en suivant les strictes règles de la **Norme 42**.
 
 ### Compétences acquises
 - **Programmation C** : Maîtrise des **fonctions**, **boucles**, **conditions**, **pointeurs**, et **gestion mémoire**.
