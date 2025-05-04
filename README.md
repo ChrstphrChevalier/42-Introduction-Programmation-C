@@ -1,73 +1,59 @@
-##### <p align="center"> *Au cours du test de la piscine de 42 écoles, j'ai rencontré plusieurs difficultés et j'ai acquis des expériences précieuses.* </p>
-
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/05c9f86d-06a7-4f90-9d44-7ac68827babd) </p>
 
-## <p align="center"> ### Difficultés rencontrées </p>
+# <p align="center"> Piscine 42 </p>
 
-### <p align="center"> 1. **Intensité et charge de travail**: </p>
-##### <p align="center"> - J'ai souvent dû travailler de longues heures, parfois jusqu'à tard dans la nuit, avec des journées typiques de 12 à 16 heures de travail intensif. </p>
-##### <p align="center"> - La quantité de projets et d'exercices à réaliser était très élevée, nécessitant une gestion rigoureuse de mon temps. </p>
+### Aperçu
 
-### <p align="center"> 2. **Stress et pression** : </p>
-##### <p align="center"> - La compétition avec d'autres candidats était stressante, surtout dans un environnement où chacun cherchait à se surpasser. </p>
-##### <p align="center"> - La pression de devoir terminer des exercices et des projets dans des délais serrés augmentait mon niveau de stress. </p>
+La **Piscine** de l'école 42 est un programme intensif de 4 semaines qui sert de pré-requis pour intégrer l'école. C'est un parcours d'initiation à la programmation, au développement système et à la résolution de problèmes avec une approche totalement axée sur la pratique. La Piscine est réputée pour son format autonome, où les étudiants sont mis au défi de travailler seuls ou en petits groupes sur des projets, en utilisant des outils comme Git, Linux, et une multitude de langages de programmation. Ce programme est un véritable test d'endurance, permettant de développer une forte capacité de résilience, d'adaptabilité, et de gestion du stress.
 
-### <p align="center"> 3. **Complexité des sujets** : </p>
-##### <p align="center"> - Les exercices couvraient un large éventail de sujets, des bases de la programmation aux concepts plus avancés en algorithmes et en structure de données. </p>
-##### <p align="center"> - J'ai souvent dû apprendre rapidement de nouveaux langages ou paradigmes de programmation. </p>
+Au cours de cette piscine, les étudiants sont confrontés à des exercices pratiques, des challenges algorithmiques, et à une immersion complète dans le développement logiciel. Cette expérience intense permet d’acquérir les bases fondamentales du métier de développeur tout en renforçant la gestion de la mémoire, des structures de données et de l'algorithmie. De plus, elle offre une introduction à la programmation système, la gestion des processus, et la programmation concurrente.
 
-### <p align="center"> 4. **Manque de ressources** : </p>
-##### <p align="center"> - Je n'ai pas bénéficié de cours magistraux ni de travaux dirigés, j'ai souvent dû apprendre seul ou collaborer avec mes pairs. </p>
-##### <p align="center"> - Les ressources en ligne et l'entraide entre candidats sont devenues cruciales. </p>
+---
 
-### <p align="center"> 5. **Adaptation et résilience** : </p>
-##### <p align="center"> - J'ai dû m'adapter rapidement à un nouvel environnement de travail, souvent éloigné de celui auquel j'étais habitué. </p>
-##### <p align="center"> - Ma résilience face aux échecs fréquents et ma capacité à persévérer malgré les difficultés ont été mises à l'épreuve. </p>
+### Compétences Acquises
 
-# <p align="center">   </p>
+#### Programmation en C
 
-## <p align="center"> ### Expériences acquises </p>
+- **Syntaxe et structures de base** : Maîtrise des structures de contrôle, boucles, conditions, et fonctions.
+- **Gestion de la mémoire** : Utilisation des pointeurs, gestion de la mémoire dynamique avec `malloc`, `free`, optimisation de la gestion de la mémoire et des ressources.
+- **Manipulation de chaînes de caractères** : Conversion entre différents formats (décimal, binaire, hexadécimal), gestion des entrées/sorties avec `read`, `write`.
+- **Structures de données** : Mise en place de tableaux, listes chaînées, piles, queues et autres structures pour résoudre des problèmes complexes.
+- **Débogage** : Utilisation de `gdb` pour analyser des erreurs, détection des segmentation faults, gestion des segfaults et des memory leaks avec `valgrind`.
 
-### <p align="center"> 1. **Apprentissage autonome** : </p>
-##### <p align="center"> - J'ai développé des compétences d'auto-apprentissage, apprenant à rechercher et à assimiler de nouvelles informations par moi-même. </p>
-##### <p align="center"> - Ma capacité à comprendre et à résoudre des problèmes complexes sans aide directe s'est grandement améliorée. </p>
+#### Algorithmie et Résolution de Problèmes
 
-### <p align="center"> 2. **Collaboration et entraide** : </p>
-##### <p align="center"> - L'esprit de camaraderie et de collaboration s'est renforcé, permettant d'apprendre à travailler en équipe et à s'entraider. </p>
-##### <p align="center"> - Les échanges de connaissances et les séances de programmation en binôme étaient fréquents. </p>
+- **Algorithmes de tri et de recherche** : Mise en œuvre des algorithmes classiques (tri à bulles, tri rapide, recherche binaire).
+- **Complexité algorithmique** : Calcul et optimisation de la complexité temporelle et spatiale des algorithmes, réduction des coûts.
+- **Optimisation de code** : Écriture de code plus efficace, en réduisant la taille des programmes et la consommation de mémoire.
+- **Résolution de problèmes** : Développement d’une méthodologie pour résoudre des problèmes complexes en programmant de manière modulaire et réutilisable.
 
-### <p align="center"> 3. **Gestion du temps** : </p>
-##### <p align="center"> - J'ai acquis des compétences en gestion du temps, en apprenant à prioriser les tâches et à gérer plusieurs projets simultanément. </p>
-##### <p align="center"> - Ma discipline et mon organisation personnelle ont été testées et améliorées. </p>
+#### Systèmes Unix/Linux
 
-### <p align="center"> 4. **Résilience et persévérance** : </p>
-##### <p align="center"> - Ma capacité à surmonter les échecs et à persévérer dans des conditions difficiles s'est considérablement développée. </p>
-##### <p align="center"> - J'ai appris à accepter mes erreurs et à en tirer des leçons, améliorant ainsi mon approche des problèmes futurs. </p>
+- **Utilisation de la ligne de commande** : Gestion des fichiers et répertoires via des commandes comme `ls`, `cd`, `cp`, `mv`, `rm`, et gestion des permissions avec `chmod`.
+- **Gestion des processus** : Manipulation des processus, gestion de la concurrence, utilisation des commandes `fork`, `execve`, `waitpid`.
+- **Gestion des signaux** : Apprendre à gérer les signaux systèmes tels que `SIGINT`, `SIGTERM`, et leur gestion via signal handlers.
+- **Permissions et sécurité** : Configuration des droits d'accès aux fichiers et répertoires avec `chmod`, gestion des utilisateurs et des groupes.
 
-### <p align="center"> 5. **Compétences techniques** : </p>
-##### <p align="center"> - J'ai considérablement amélioré mes compétences en programmation, notamment en C, qui est souvent le langage de prédilection pour les exercices. </p>
-##### <p align="center"> - J'ai acquis une meilleure compréhension des algorithmes, des structures de données et des concepts fondamentaux de l'informatique. </p>
+#### Développement Collaboratif
 
-##### <p align="center"> *En bref, la piscine de l'École 42 a été un véritable défi qui a mis à l'épreuve non seulement mes compétences techniques, mais aussi ma résilience, ma capacité d'apprentissage autonome et mon aptitude à travailler en équipe. J'en suis ressorti profondément transformé et mieux préparé aux défis futurs dans le domaine de la programmation et du génie logiciel.* </p>
+- **Gestion de version avec Git** : Maîtrise des commandes de base de Git (`git commit`, `git push`, `git pull`, `git merge`, `git rebase`), résolution des conflits.
+- **Travail en équipe** : Collaboration avec d'autres étudiants sur des projets communs, gestion des projets en pair programming et partage de solutions via des plateformes comme GitHub.
+- **Documentation** : Rédaction de README structurés et détaillés pour chaque projet, préparation de rapports techniques.
 
-# <p align="center">   </p>
+#### Résilience et Gestion du Stress
 
-# <p align="center"> - Examen 00 - </p>
+- **Adaptabilité** : Capacité à apprendre rapidement de nouvelles technologies, s’adapter à un environnement inconnu.
+- **Travail sous pression** : Respect des délais et gestion de projets avec une charge de travail importante.
+- **Résolution de problèmes en autonomie** : Développement de la capacité à rechercher des solutions, à trouver des bugs et à optimiser le code en toute indépendance.
 
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/a2bdf4fe-5a0e-4b5b-b2b0-a269b414afb4) </p>
+---
 
-# <p align="center"> - Examen 01 - </p>
+### Pourquoi cette étape est pertinente
 
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/66b1c4e9-2175-41c0-a632-6fe3e974d1ac) </p>
+La Piscine 42 a constitué un véritable tremplin pour ma carrière en développement informatique. Elle m'a permis de renforcer mes compétences en programmation C, mais aussi de développer des habitudes de travail solides, qui sont essentielles dans le milieu professionnel. Grâce à l’approche autonome et au travail collaboratif avec mes pairs, j’ai appris à résoudre des problèmes complexes en utilisant une approche méthodique et en tirant parti des outils modernes de versioning, comme Git.
 
-# <p align="center"> - Examen 02 - </p>
+Le programme m’a permis d’acquérir des compétences clés en développement système (gestion de mémoire, utilisation des pointeurs, gestion des processus, etc.) ainsi qu’en algorithmie (optimisation des performances des programmes, gestion de la complexité). Ce parcours m'a également familiarisé avec les systèmes Unix/Linux et l'utilisation des commandes de base pour la gestion des fichiers et des processus.
 
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/ce0f41bf-8bfd-467c-8d17-b22eb27d9b1c) </p>
+La Piscine m'a appris à travailler en autonomie, mais aussi à collaborer efficacement avec d’autres développeurs, à résoudre des problèmes complexes et à documenter mes solutions. Elle m’a également aidé à renforcer ma capacité à travailler sous pression, à respecter des délais stricts, et à être flexible face aux défis, des compétences essentielles pour exceller dans le monde de l’informatique.
 
-# <p align="center"> - Examen Final - </p>
-
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/5d7482e7-8d07-49d5-991f-e8a327dc51b9) </p>
-
-# <p align="center"> - #begin - </p>
-
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/1aead833-b573-4170-b751-c0f1279f7cf9) </p>
+Enfin, cette expérience a été décisive pour intégrer l’école 42 et m’a préparé à relever des défis technologiques au sein d’une équipe agile. Ce cursus est une base solide pour mes futures missions en développement logiciel, en administration système, et dans d'autres domaines de l'IT où la rigueur et l'efficacité sont essentielles.
