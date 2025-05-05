@@ -21,7 +21,7 @@ Le projet **C00 - Fondamentaux** est un projet clé de l'école 42 permettant d�
 - **`print_comb2`** : Affichage de toutes les paires de chiffres distincts, compréhension des algorithmes d’énumération.
 - **`putnbr`** : Conversion d’un nombre entier en chaîne de caractères et affichage, manipulation des nombres et de la **conversion numérique**.
 
-### Pourquoi ce projet est pertinent
+### Pourquoi ce module est pertinent
 **C00 - Fondamentaux** a été une étape essentielle pour maîtriser les bases de la programmation en **C**. Grâce à ce projet, j'ai consolidé ma compréhension des **fonctions C**, de la gestion de la mémoire, des **structures de contrôle**, et des **algorithmes simples**. La mise en œuvre de fonctions comme `putchar`, `print_comb`, et `putnbr` m’a permis d’acquérir une rigueur indispensable pour la gestion de la mémoire et l’optimisation des ressources.
 
 Ce projet a non seulement renforcé mes compétences en programmation bas niveau mais m'a aussi appris à travailler sous des contraintes strictes et à respecter des **standards de code**. La capacité à manipuler des **pointeurs**, gérer des **combinaisons** et effectuer des **conversions numériques** est fondamentale pour mes futurs projets en **système** et **développement logiciel**.
