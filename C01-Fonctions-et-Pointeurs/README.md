@@ -23,7 +23,7 @@ Le projet **C01** est une suite logique du module C00, axé sur la **manipulatio
 - **`rev_int_tab`** : Inversion d’un tableau d’entiers, manipulation d’indices et de boucles.
 - **`sort_int_tab`** : Tri d’un tableau d’entiers, introduction à l’algorithmie de tri (ex. : tri à bulles).
 
-### Pourquoi ce projet est pertinent
+### Pourquoi ce module est pertinent
 **C01** m’a permis de maîtriser les **pointeurs**, fondement du langage **C**, tout en développant une compréhension claire de la **gestion de la mémoire** et du **fonctionnement bas niveau des programmes**. Grâce à la manipulation directe de données via leur adresse, j’ai pu implémenter des fonctions complexes tout en respectant les contraintes de performance et de lisibilité. Ces notions sont indispensables en **développement système**, **programmation embarquée**, ou tout environnement où la maîtrise fine des ressources est critique.
 
 ##
