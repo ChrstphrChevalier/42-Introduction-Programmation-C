@@ -4,56 +4,94 @@
 
 ### Aperçu
 
-La **Piscine** de l'école 42 est un programme intensif de 4 semaines qui sert de pré-requis pour intégrer l'école. C'est un parcours d'initiation à la programmation, au développement système et à la résolution de problèmes avec une approche totalement axée sur la pratique. La Piscine est réputée pour son format autonome, où les étudiants sont mis au défi de travailler seuls ou en petits groupes sur des projets, en utilisant des outils comme Git, Linux, et une multitude de langages de programmation. Ce programme est un véritable test d'endurance, permettant de développer une forte capacité de résilience, d'adaptabilité, et de gestion du stress.
+La **Piscine** de l'école 42 est un programme intensif de **4 semaines**, conçu comme un test d'endurance pour évaluer les compétences en **programmation**, **développement système**, et **résolution de problèmes complexes**. Avec son approche 100% pratique et son exigence, ce bootcamp prépare à des défis algorithmiques quotidiens tout en développant des compétences en **programmation bas-niveau** et en **environnements Unix/Linux**.
 
-Au cours de cette piscine, les étudiants sont confrontés à des exercices pratiques, des challenges algorithmiques, et à une immersion complète dans le développement logiciel. Cette expérience intense permet d’acquérir les bases fondamentales du métier de développeur tout en renforçant la gestion de la mémoire, des structures de données et de l'algorithmie. De plus, elle offre une introduction à la programmation système, la gestion des processus, et la programmation concurrente.
+Ce parcours permet d'acquérir des bases solides en **C**, **algorithmie**, **gestion de mémoire**, ainsi qu'une expertise dans la gestion de systèmes **Unix** et **Linux**, tout en mettant en avant la **résilience** et la **gestion de projets en autonomie**.
 
----
+##
 
-### Compétences Acquises
+### 🧠 Compétences Techniques Développées
 
-#### Programmation en C
+#### 🖥️ **Programmation en C**
 
-- **Syntaxe et structures de base** : Maîtrise des structures de contrôle, boucles, conditions, et fonctions.
-- **Gestion de la mémoire** : Utilisation des pointeurs, gestion de la mémoire dynamique avec `malloc`, `free`, optimisation de la gestion de la mémoire et des ressources.
-- **Manipulation de chaînes de caractères** : Conversion entre différents formats (décimal, binaire, hexadécimal), gestion des entrées/sorties avec `read`, `write`.
-- **Structures de données** : Mise en place de tableaux, listes chaînées, piles, queues et autres structures pour résoudre des problèmes complexes.
-- **Débogage** : Utilisation de `gdb` pour analyser des erreurs, détection des segmentation faults, gestion des segfaults et des memory leaks avec `valgrind`.
+- **Syntaxe avancée** : Structures de contrôle, boucles, conditions, fonctions.
+- **Gestion de la mémoire** : Utilisation des pointeurs, gestion dynamique avec `malloc`, `free`, et optimisation mémoire.
+- **Manipulation de chaînes** : Conversion entre formats, gestion d'entrées/sorties avec `read`, `write`.
+- **Structures de données** : Listes chaînées, tableaux, piles, queues, et plus pour résoudre des problèmes complexes.
 
-#### Algorithmie et Résolution de Problèmes
+#### 🔍 **Algorithmie et Résolution de Problèmes**
 
-- **Algorithmes de tri et de recherche** : Mise en œuvre des algorithmes classiques (tri à bulles, tri rapide, recherche binaire).
-- **Complexité algorithmique** : Calcul et optimisation de la complexité temporelle et spatiale des algorithmes, réduction des coûts.
-- **Optimisation de code** : Écriture de code plus efficace, en réduisant la taille des programmes et la consommation de mémoire.
-- **Résolution de problèmes** : Développement d’une méthodologie pour résoudre des problèmes complexes en programmant de manière modulaire et réutilisable.
+- **Optimisation d'algorithmes** : Tri, recherche, réduction de la complexité.
+- **Développement modulaire** : Code réutilisable et bien structuré, méthodologie de débogage avec `gdb`, et gestion des memory leaks via `valgrind`.
+- **Tests et validation** : Test unitaire et contrôle qualité avec `norminette`.
 
-#### Systèmes Unix/Linux
+#### 🧑‍💻 **Systèmes Unix/Linux**
 
-- **Utilisation de la ligne de commande** : Gestion des fichiers et répertoires via des commandes comme `ls`, `cd`, `cp`, `mv`, `rm`, et gestion des permissions avec `chmod`.
-- **Gestion des processus** : Manipulation des processus, gestion de la concurrence, utilisation des commandes `fork`, `execve`, `waitpid`.
-- **Gestion des signaux** : Apprendre à gérer les signaux systèmes tels que `SIGINT`, `SIGTERM`, et leur gestion via signal handlers.
-- **Permissions et sécurité** : Configuration des droits d'accès aux fichiers et répertoires avec `chmod`, gestion des utilisateurs et des groupes.
+- **Maîtrise de la ligne de commande** : Gestion des fichiers, répertoires, et permissions avec `chmod`, `ls`, `cd`, etc.
+- **Gestion des processus et de la concurrence** : `fork`, `execve`, gestion des signaux avec `SIGINT`, `SIGTERM`.
+- **Sécurité et permissions** : Configuration des droits d'accès et gestion des utilisateurs.
 
-#### Développement Collaboratif
+#### 💻 **Développement Collaboratif**
 
-- **Gestion de version avec Git** : Maîtrise des commandes de base de Git (`git commit`, `git push`, `git pull`, `git merge`, `git rebase`), résolution des conflits.
-- **Travail en équipe** : Collaboration avec d'autres étudiants sur des projets communs, gestion des projets en pair programming et partage de solutions via des plateformes comme GitHub.
-- **Documentation** : Rédaction de README structurés et détaillés pour chaque projet, préparation de rapports techniques.
+- **Versioning Git** : Gestion de versions avec `git commit`, `git push`, `git merge`.
+- **Travail en équipe** : Collaboration via GitHub, gestion de projets en pair programming.
+- **Documentation** : Création de README structurés et détaillés pour chaque projet.
 
-#### Résilience et Gestion du Stress
+##
 
-- **Adaptabilité** : Capacité à apprendre rapidement de nouvelles technologies, s’adapter à un environnement inconnu.
-- **Travail sous pression** : Respect des délais et gestion de projets avec une charge de travail importante.
-- **Résolution de problèmes en autonomie** : Développement de la capacité à rechercher des solutions, à trouver des bugs et à optimiser le code en toute indépendance.
+### 📁 Modules Réalisés
 
----
+#### 📦 `C00` – Bases du C & Syntaxe
+- `ft_putchar`, `ft_print_alphabet`, `ft_print_reverse_alphabet`, etc.
+- Manipulation des boucles, conditions et affichage formaté.
 
-### Pourquoi cette étape est pertinente
+#### 📦 `C01` – Pointeurs, Tableaux, Fonctions
+- `ft_ft`, `ultimate_ft`, `ft_swap`, `div_mod`, etc.
+- Tri de tableaux, passage par adresse, manipulation de chaînes et entiers.
 
-La Piscine 42 a constitué un véritable tremplin pour ma carrière en développement informatique. Elle m'a permis de renforcer mes compétences en programmation C, mais aussi de développer des habitudes de travail solides, qui sont essentielles dans le milieu professionnel. Grâce à l’approche autonome et au travail collaboratif avec mes pairs, j’ai appris à résoudre des problèmes complexes en utilisant une approche méthodique et en tirant parti des outils modernes de versioning, comme Git.
+#### 📦 `C02` – Chaînes de caractères
+- `strcpy`, `strncpy`, `str_is_alpha`, etc.
+- Conversion de casse, validation de chaînes et gestion de caractères non imprimables.
 
-Le programme m’a permis d’acquérir des compétences clés en développement système (gestion de mémoire, utilisation des pointeurs, gestion des processus, etc.) ainsi qu’en algorithmie (optimisation des performances des programmes, gestion de la complexité). Ce parcours m'a également familiarisé avec les systèmes Unix/Linux et l'utilisation des commandes de base pour la gestion des fichiers et des processus.
+#### 📦 `C03` – Fonctions sur chaînes
+- `strcmp`, `strncmp`, `strcat`, etc.
+- Concaténation et recherche d’occurrences dans des chaînes.
 
-La Piscine m'a appris à travailler en autonomie, mais aussi à collaborer efficacement avec d’autres développeurs, à résoudre des problèmes complexes et à documenter mes solutions. Elle m’a également aidé à renforcer ma capacité à travailler sous pression, à respecter des délais stricts, et à être flexible face aux défis, des compétences essentielles pour exceller dans le monde de l’informatique.
+#### 📦 `C04` – Fonctions utilitaires
+- `strlen`, `putstr`, `putnbr`, `atoi`.
+- Réimplémentation des fonctions standard et gestion des conversions.
 
-Enfin, cette expérience a été décisive pour intégrer l’école 42 et m’a préparé à relever des défis technologiques au sein d’une équipe agile. Ce cursus est une base solide pour mes futures missions en développement logiciel, en administration système, et dans d'autres domaines de l'IT où la rigueur et l'efficacité sont essentielles.
+#### 📦 `C05` – Fonctions mathématiques récursives
+- `iterative_factorial`, `recursive_factorial`, `fibonacci`, etc.
+- Maîtrise de la récursivité, optimisation et logique algorithmique.
+
+#### 📦 `C06` – Paramètres du programme
+- `print_program_name`, `rev_params`, `sort_params`.
+- Manipulation dynamique des paramètres avec `argc`, `argv`.
+
+#### 📦 `C07` – Allocation dynamique
+- `strdup`, `range`, `strjoin`, etc.
+- Gestion dynamique de la mémoire avec `malloc` et `free`.
+
+##
+
+### 🔧 Outils et Technologies Utilisées
+
+- **Langage** : C (ISO C90 / norme 42)
+- **Compilateur** : `gcc -Wall -Wextra -Werror`
+- **Gestion de version** : Git
+- **Analyse mémoire** : Valgrind, gestion des fuites mémoire
+- **Environnement de travail** : VSCode, Vim, Emacs, terminal, Makefile
+- **Normes de codage** : Norminette pour un code propre et structuré
+
+##
+
+### 🚀 Pourquoi cette Piscine ?
+
+La Piscine 42 a été un **tremplin** essentiel dans mon parcours en développement logiciel. Ce programme m'a permis de développer une expertise technique en **programmation C**, **algorithmie**, et **systèmes Unix/Linux**, tout en m'exposant à des défis quotidiens qui ont renforcé ma **résilience**, ma capacité à travailler en **autonomie** et à respecter des délais serrés.
+
+Elle m’a également offert une base solide pour explorer des domaines tels que la **cybersécurité**, **le développement bas-niveau**, et la **programmation embarquée**. Le travail intensif en **teamwork** et la gestion de projet m'ont préparé à aborder des projets complexes avec une méthodologie agile et efficace.
+
+##
+
+# <p align="center"><strong>“Keep calm and code in C”</strong></p>
