@@ -25,5 +25,3 @@ Le module **C07** aborde les bases de l’**allocation dynamique** en C. Il s'ag
 # <p align="center"> - Result - </p>
 
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/42Pool/assets/146819291/decef5e4-1372-409e-a817-0392197836e3) </p>
-
-# <p align="center"> - #end - </p>
